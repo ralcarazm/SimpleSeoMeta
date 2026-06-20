@@ -1,0 +1,342 @@
+# Catalan translation for Simple SEO Meta.
+# Copyright (C) 2026 Rubén Alcaraz Martínez
+# This file is distributed under the same license as the SimpleSeoMeta plugin.
+#
+msgid ""
+msgstr "Project-Id-Version: SimpleSeoMeta 0.4.0\nReport-Msgid-Bugs-To: https://github.com/ralcarazm/SimpleSeoMeta/issues\nPOT-Creation-Date: 2026-06-19 14:37+0000\nPO-Revision-Date: 2026-06-19 14:37+0000\nLast-Translator: Rubén Alcaraz Martínez\nLanguage-Team: Catalan\nLanguage: ca_ES\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Simple SEO Meta"
+msgstr "Simple SEO Meta"
+
+msgid "Optional SEO metadata for this Simple Page. Empty fields use this plugin's global defaults and automatic fallbacks."
+msgstr "Metadades SEO opcionals per a aquesta pàgina de Simple Pages. Els camps buits utilitzen els valors globals per defecte del connector i els valors automàtics de reserva."
+
+msgid "SEO title"
+msgstr "Títol SEO"
+
+msgid "Optional. If empty, the page title and the global title template are used."
+msgstr "Opcional. Si es deixa buit, s'utilitzen el títol de la pàgina i la plantilla global de títol."
+
+msgid "Meta description"
+msgstr "Descripció meta"
+
+msgid "Optional. Recommended length: about 150–160 characters."
+msgstr "Opcional. Longitud recomanada: aproximadament 150–160 caràcters."
+
+msgid "Canonical URL"
+msgstr "URL canònica"
+
+msgid "Optional. Leave empty to use the automatic canonical URL."
+msgstr "Opcional. Deixeu-ho buit per utilitzar l'URL canònica automàtica."
+
+msgid "Meta robots"
+msgstr "Meta robots"
+
+msgid "Choose the main robots directive for this page."
+msgstr "Trieu la directiva robots principal per a aquesta pàgina."
+
+msgid "Custom robots value"
+msgstr "Valor robots personalitzat"
+
+msgid "Only used when Meta robots is set to Custom value. Example: noindex, nofollow, max-snippet:0"
+msgstr "Només s'utilitza quan Meta robots està configurat com a valor personalitzat. Exemple: noindex, nofollow, max-snippet:0"
+
+msgid "robots: nosnippet"
+msgstr "robots: nosnippet"
+
+msgid "Do not show a text snippet or video preview in search results."
+msgstr "No mostris cap fragment de text ni previsualització de vídeo als resultats de cerca."
+
+msgid "robots: indexifembedded"
+msgstr "robots: indexifembedded"
+
+msgid "Allow indexing when this page is embedded elsewhere, normally used with noindex."
+msgstr "Permet la indexació quan aquesta pàgina s'incrusta en un altre lloc; normalment s'utilitza amb noindex."
+
+msgid "robots: notranslate"
+msgstr "robots: notranslate"
+
+msgid "Do not offer translation of this page in search results."
+msgstr "No ofereixis la traducció d'aquesta pàgina als resultats de cerca."
+
+msgid "robots: noimageindex"
+msgstr "robots: noimageindex"
+
+msgid "Do not index images on this page."
+msgstr "No indexis les imatges d'aquesta pàgina."
+
+msgid "robots: noarchive"
+msgstr "robots: noarchive"
+
+msgid "Historical directive. Prevents showing a cached link where supported."
+msgstr "Directiva històrica. Evita mostrar un enllaç a la memòria cau quan el rastrejador ho admet."
+
+msgid "robots: nocache"
+msgstr "robots: nocache"
+
+msgid "Historical directive, mainly associated with some non-Google crawlers."
+msgstr "Directiva històrica, associada principalment a alguns rastrejadors que no són de Google."
+
+msgid "robots: nositelinkssearchbox"
+msgstr "robots: nositelinkssearchbox"
+
+msgid "Historical directive. Google no longer supports the sitelinks search box result."
+msgstr "Directiva històrica. Google ja no admet el resultat amb caixa de cerca d'enllaços de lloc."
+
+msgid "robots: max-snippet"
+msgstr "robots: max-snippet"
+
+msgid "Optional integer. 0 is equivalent to nosnippet; -1 means no limit."
+msgstr "Enter opcional. 0 equival a nosnippet; -1 vol dir sense límit."
+
+msgid "robots: max-image-preview"
+msgstr "robots: max-image-preview"
+
+msgid "Optional image preview limit."
+msgstr "Límit opcional de previsualització d'imatge."
+
+msgid "robots: max-video-preview"
+msgstr "robots: max-video-preview"
+
+msgid "Optional integer in seconds. 0 allows at most a static image; -1 means no limit."
+msgstr "Enter opcional en segons. 0 permet com a màxim una imatge estàtica; -1 vol dir sense límit."
+
+msgid "robots: unavailable_after"
+msgstr "robots: unavailable_after"
+
+msgid "Optional date/time. Example: Wed, 31 Dec 2026 23:59:59 GMT."
+msgstr "Data/hora opcional. Exemple: Wed, 31 Dec 2026 23:59:59 GMT."
+
+msgid "Open Graph title"
+msgstr "Títol Open Graph"
+
+msgid "Optional. If empty, the SEO title is used."
+msgstr "Opcional. Si es deixa buit, s'utilitza el títol SEO."
+
+msgid "Open Graph description"
+msgstr "Descripció Open Graph"
+
+msgid "Optional. If empty, the meta description is used."
+msgstr "Opcional. Si es deixa buit, s'utilitza la descripció meta."
+
+msgid "Open Graph type"
+msgstr "Tipus Open Graph"
+
+msgid "Optional. Example: website, article."
+msgstr "Opcional. Exemple: website, article."
+
+msgid "Open Graph image URL"
+msgstr "URL de la imatge Open Graph"
+
+msgid "Optional absolute or root-relative URL."
+msgstr "URL absoluta o relativa a l'arrel opcional."
+
+msgid "Open Graph image alt text"
+msgstr "Text alternatiu de la imatge Open Graph"
+
+msgid "Optional text alternative for the social preview image."
+msgstr "Alternativa textual opcional per a la imatge de previsualització social."
+
+msgid "Twitter/X Card type"
+msgstr "Tipus de targeta Twitter/X"
+
+msgid "Optional. If empty, the global card type is used."
+msgstr "Opcional. Si es deixa buit, s'utilitza el tipus de targeta global."
+
+msgid "Twitter/X title"
+msgstr "Títol Twitter/X"
+
+msgid "Optional. If empty, the Open Graph title or SEO title is used."
+msgstr "Opcional. Si es deixa buit, s'utilitza el títol Open Graph o el títol SEO."
+
+msgid "Twitter/X description"
+msgstr "Descripció Twitter/X"
+
+msgid "Optional. If empty, the Open Graph description or meta description is used."
+msgstr "Opcional. Si es deixa buit, s'utilitza la descripció Open Graph o la descripció meta."
+
+msgid "Twitter/X image URL"
+msgstr "URL de la imatge Twitter/X"
+
+msgid "Twitter/X image alt text"
+msgstr "Text alternatiu de la imatge Twitter/X"
+
+msgid "Optional text alternative for the Twitter/X image."
+msgstr "Alternativa textual opcional per a la imatge Twitter/X."
+
+msgid "Global SEO defaults"
+msgstr "Valors SEO globals per defecte"
+
+msgid "Rewrite title tag"
+msgstr "Reescriu l'etiqueta title"
+
+msgid "When enabled, Simple SEO Meta replaces the first public &lt;title&gt; tag generated by the theme."
+msgstr "Quan s'activa, Simple SEO Meta substitueix la primera etiqueta pública &lt;title&gt; generada pel tema."
+
+msgid "Title template"
+msgstr "Plantilla de títol"
+
+msgid "Available variables: {page_title}, {site_title}. Example: {page_title} | {site_title}"
+msgstr "Variables disponibles: {page_title}, {site_title}. Exemple: {page_title} | {site_title}"
+
+msgid "Default page title"
+msgstr "Títol de pàgina per defecte"
+
+msgid "Fallback title used when the plugin cannot infer a page title from the current record. Individual Simple Pages can override this value."
+msgstr "Títol de reserva que s'utilitza quan el connector no pot inferir un títol de pàgina del registre actual. Les pàgines individuals de Simple Pages poden sobreescriure aquest valor."
+
+msgid "Default meta description"
+msgstr "Descripció meta per defecte"
+
+msgid "Fallback description used when the plugin cannot infer a description from Dublin Core Description or Simple Pages text. Individual Simple Pages can override this value. Recommended length: about 150–160 characters."
+msgstr "Descripció de reserva que s'utilitza quan el connector no pot inferir una descripció a partir de Dublin Core Description o del text de Simple Pages. Les pàgines individuals de Simple Pages poden sobreescriure aquest valor. Longitud recomanada: aproximadament 150–160 caràcters."
+
+msgid "Output a canonical URL for the current public page."
+msgstr "Genera una URL canònica per a la pàgina pública actual."
+
+msgid "Strip query string from canonical"
+msgstr "Elimina la cadena de consulta de la canònica"
+
+msgid "Recommended for most Omeka public pages."
+msgstr "Recomanat per a la majoria de pàgines públiques d'Omeka."
+
+msgid "Global meta robots defaults"
+msgstr "Valors globals per defecte de meta robots"
+
+msgid "Base directive"
+msgstr "Directiva base"
+
+msgid "Choose the global default directive. Leave empty to avoid outputting a robots meta tag; that normally means the default crawler behaviour, equivalent to index,follow. Individual Simple Pages can inherit or override this setting."
+msgstr "Trieu la directiva global per defecte. Deixeu-la buida per no generar cap etiqueta meta robots; això normalment implica el comportament per defecte dels rastrejadors, equivalent a index,follow. Les pàgines individuals de Simple Pages poden heretar o sobreescriure aquesta configuració."
+
+msgid "Only used when Base directive is set to “Custom value”. Example: noindex, nofollow, max-snippet:0"
+msgstr "Només s'utilitza quan la directiva base està configurada com a «Valor personalitzat». Exemple: noindex, nofollow, max-snippet:0"
+
+msgid "Additional directives"
+msgstr "Directives addicionals"
+
+msgid "max-snippet"
+msgstr "max-snippet"
+
+msgid "Leave empty, or use an integer. 0 is equivalent to nosnippet; -1 lets the crawler choose the snippet length."
+msgstr "Deixeu-ho buit o utilitzeu un enter. 0 equival a nosnippet; -1 permet que el rastrejador triï la longitud del fragment."
+
+msgid "max-image-preview"
+msgstr "max-image-preview"
+
+msgid "max-video-preview"
+msgstr "max-video-preview"
+
+msgid "Leave empty, or use an integer. 0 allows at most a static image; -1 means no limit."
+msgstr "Deixeu-ho buit o utilitzeu un enter. 0 permet com a màxim una imatge estàtica; -1 vol dir sense límit."
+
+msgid "unavailable_after"
+msgstr "unavailable_after"
+
+msgid "Open Graph"
+msgstr "Open Graph"
+
+msgid "Enable Open Graph"
+msgstr "Activa Open Graph"
+
+msgid "Default og:type"
+msgstr "og:type per defecte"
+
+msgid "Usually website. You may also use article or another Open Graph type."
+msgstr "Normalment website. També podeu utilitzar article o un altre tipus Open Graph."
+
+msgid "og:locale"
+msgstr "og:locale"
+
+msgid "Optional. Example: es_ES, ca_ES, en_GB."
+msgstr "Opcional. Exemple: es_ES, ca_ES, en_GB."
+
+msgid "Default image URL"
+msgstr "URL de la imatge per defecte"
+
+msgid "Absolute or root-relative URL. For item pages, the plugin tries to use the first image file before this fallback."
+msgstr "URL absoluta o relativa a l'arrel. Per a pàgines d'ítem, el connector intenta utilitzar el primer fitxer d'imatge abans d'aquest valor de reserva."
+
+msgid "Default image alt text"
+msgstr "Text alternatiu de la imatge per defecte"
+
+msgid "Twitter Cards"
+msgstr "Targetes de Twitter"
+
+msgid "Enable Twitter Cards"
+msgstr "Activa les Targetes de Twitter"
+
+msgid "Card type"
+msgstr "Tipus de targeta"
+
+msgid "twitter:site"
+msgstr "twitter:site"
+
+msgid "Optional X/Twitter handle. Example: @your_site"
+msgstr "Compte X/Twitter opcional. Exemple: @your_site"
+
+msgid "twitter:creator"
+msgstr "twitter:creator"
+
+msgid "Optional author or project handle. Example: @creator"
+msgstr "Compte opcional de l'autor o del projecte. Exemple: @creator"
+
+msgid "Default: no robots meta tag (normally index,follow)"
+msgstr "Per defecte: no generar cap etiqueta meta robots (normalment index,follow)"
+
+msgid "all (no restrictions; equivalent to index,follow)"
+msgstr "all (sense restriccions; equivalent a index,follow)"
+
+msgid "index,follow"
+msgstr "index,follow"
+
+msgid "index,nofollow"
+msgstr "index,nofollow"
+
+msgid "noindex,follow"
+msgstr "noindex,follow"
+
+msgid "noindex,nofollow"
+msgstr "noindex,nofollow"
+
+msgid "noindex"
+msgstr "noindex"
+
+msgid "nofollow"
+msgstr "nofollow"
+
+msgid "none (shortcut for noindex,nofollow)"
+msgstr "none (drecera de noindex,nofollow)"
+
+msgid "Custom value"
+msgstr "Valor personalitzat"
+
+msgid "Use global setting / automatic fallback"
+msgstr "Utilitza la configuració global / valor automàtic de reserva"
+
+msgid "Do not output"
+msgstr "No generar"
+
+msgid "none"
+msgstr "none"
+
+msgid "standard"
+msgstr "standard"
+
+msgid "large"
+msgstr "large"
+
+msgid "summary"
+msgstr "summary"
+
+msgid "summary_large_image"
+msgstr "summary_large_image"
+
+msgid "Use global setting"
+msgstr "Utilitza la configuració global"
+
+msgid "Use global setting to inherit the site default. Remember: none means noindex,nofollow; leaving the global setting empty means no robots meta tag, normally equivalent to index,follow."
+msgstr "Utilitzeu la configuració global per heretar el valor per defecte del lloc. Recordeu: none vol dir noindex,nofollow; deixar la configuració global buida vol dir no generar cap etiqueta meta robots, normalment equivalent a index,follow."
+
+msgid "Additional robots directives"
+msgstr "Directives robots addicionals"
